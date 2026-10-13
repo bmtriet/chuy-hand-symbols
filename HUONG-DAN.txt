@@ -1,4 +1,4 @@
-CHUY HAND SYMBOLS v2
+CHUY HAND SYMBOLS v3
 
 Mở file TTF, chọn Install Font / Cài đặt. Nếu đã có v1, thay thế font cũ.
 Chọn Chuy Hand Symbols trong ứng dụng.
