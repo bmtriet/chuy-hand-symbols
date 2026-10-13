@@ -1,24 +1,30 @@
 # Chuy Hand Symbols — v2
 
-Font nét viết tay với chữ hoa ký hiệu từ video, bộ chữ thường a–z tự thiết kế và chữ tiếng Việt.
+**English** | [Tiếng Việt](README.vi.md)
 
-![Chữ thường và tiếng Việt](ChuyHandSymbols-Vietnamese-preview.png)
+A handwriting font featuring uppercase symbols redrawn from a reference video, an original lowercase alphabet, and Vietnamese diacritics.
 
-## Tải và cài đặt
+![Lowercase alphabet and Vietnamese diacritics](ChuyHandSymbols-Vietnamese-preview.png)
 
-[Tải font TTF](ChuyHandSymbols-Regular.ttf?raw=true), mở file rồi chọn **Install Font / Cài đặt**. Chọn **Chuy Hand Symbols** trong ứng dụng. Nếu đã cài v1, thay thế bằng bản v2.
+## Download and installation
 
-## Hỗ trợ
+[Download the TTF font](ChuyHandSymbols-Regular.ttf?raw=true), open the file, and select **Install Font**. Choose **Chuy Hand Symbols** in your application. If you already have v1 installed, replace it with v2.
 
-- A–Z: ký hiệu dựng lại từ video tham chiếu.
-- a–z: chữ thường viết tay tự thiết kế, khác chữ hoa.
-- Ă Â Ê Ô Ơ Ư Đ và ă â ê ô ơ ư đ.
-- Đầy đủ dấu sắc, huyền, hỏi, ngã, nặng trên các nguyên âm tiếng Việt, cho cả chữ hoa và chữ thường.
-- Ký tự tiếng Việt dựng sẵn Unicode và phép ghép dấu qua OpenType ccmp.
-- Khoảng trắng. Chưa có số và dấu câu.
+## Supported characters
 
-Chữ thường và dấu tiếng Việt được tự thiết kế vì video không có mẫu. Nét chữ hoa được dựng lại, không trích xuất nguyên bản từng pixel.
+- **A–Z:** symbols redrawn from the reference video.
+- **a–z:** an original handwritten lowercase alphabet, distinct from the uppercase symbols.
+- **Ă Â Ê Ô Ơ Ư Đ** and **ă â ê ô ơ ư đ**.
+- All five Vietnamese tone marks: acute, grave, hook above, tilde, and dot below, applied to uppercase and lowercase Vietnamese vowels.
+- Precomposed Unicode Vietnamese characters and decomposed sequences composed through the OpenType `ccmp` feature.
+- Space. Numbers and punctuation are not yet included.
 
-## Bản chữ hoa tham chiếu
+The lowercase alphabet and Vietnamese diacritics were designed for this font because the reference video contains no samples for them. The uppercase shapes are redrawings rather than exact pixel extractions.
 
-![Chữ hoa phiên bản 1](ChuyHandSymbols-preview.png)
+## Uppercase reference
+
+![Uppercase symbols from version 1](ChuyHandSymbols-preview.png)
+
+## Vietnamese documentation
+
+Read the [Vietnamese README](README.vi.md) for installation instructions and character coverage in Vietnamese.
