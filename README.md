@@ -1,36 +1,33 @@
-# Chuy Hand Symbols — v3
+# Chuy Hand Symbols
 
 **English** | [Tiếng Việt](README.vi.md)
 
-A handwriting font featuring uppercase symbols redrawn from a reference video, generated smaller variants of the original symbols, and Vietnamese diacritics.
+A handwritten symbol font for the Latin alphabet. Type A–Z or a–z to display the corresponding symbols.
 
-![Lowercase alphabet and Vietnamese diacritics](ChuyHandSymbols-Vietnamese-preview.png)
+## Latin alphabet
+
+Uppercase symbols are redrawn from the reference video. Lowercase letters use smaller variants of the same symbol shapes.
+
+![Latin alphabet: uppercase A–Z and lowercase a–z](ChuyHandSymbols-Latin-preview.png)
 
 ## Download and installation
 
-[Download the TTF font](ChuyHandSymbols-Regular.ttf?raw=true), open the file, and select **Install Font**. Choose **Chuy Hand Symbols** in your application. If you already have v1 installed, replace it with v3.
+[Download the TTF font](ChuyHandSymbols-Regular.ttf?raw=true), open the file, and select **Install Font**. Choose **Chuy Hand Symbols** in your application. Replace any earlier installed version with v3.
 
-## Supported characters
+The font supports A–Z, a–z, and spaces. Numbers and punctuation are not yet included.
 
-- **A–Z:** symbols redrawn from the reference video.
-- **a–z:** generated smaller symbol variants, preserving the uppercase stroke structure.
-- **Ă Â Ê Ô Ơ Ư Đ** and **ă â ê ô ơ ư đ**.
-- All five Vietnamese tone marks: acute, grave, hook above, tilde, and dot below, applied to uppercase and lowercase Vietnamese vowels.
-- Precomposed Unicode Vietnamese characters and decomposed sequences composed through the OpenType `ccmp` feature.
-- Space. Numbers and punctuation are not yet included.
+## Vietnamese demo
 
-The smaller lowercase variants and Vietnamese diacritics were designed for this font because the reference video contains no samples for them. The uppercase shapes are redrawings rather than exact pixel extractions.
+An experimental extension adds Vietnamese vowel shapes and the five tone marks: acute, grave, hook above, tilde, and dot below. These additions were designed separately because the reference video does not include Vietnamese samples.
 
-## Corrected uppercase
+The chart below is a preview of how the symbol system looks with Vietnamese diacritics.
 
-![Uppercase symbols after source review](ChuyHandSymbols-preview.png)
+![Vietnamese diacritics demo](ChuyHandSymbols-Vietnamese-preview.png)
 
-## Vietnamese documentation
+For Vietnamese installation instructions and character coverage, see the [Vietnamese README](README.vi.md).
 
-Read the [Vietnamese README](README.vi.md) for installation instructions and character coverage in Vietnamese.
+## Source comparison
 
-## Source review
-
-Version 3 corrects missing or incorrect strokes in B, D, G, K, L, M, S, V, W, and X. It also replaces the conventional Latin lowercase alphabet from v2 with smaller variants of the original symbol system. The font remains a redraw; spacing and proportions may differ from the video.
+Version 3 corrects missing or incorrect strokes in B, D, G, K, L, M, S, V, W, and X. Lowercase forms preserve the original symbol structure. This is a redraw; proportions and spacing may differ from the video.
 
 ![Source video and corrected font comparison](ChuyHandSymbols-source-comparison.png)

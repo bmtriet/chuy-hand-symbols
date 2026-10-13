@@ -1,32 +1,31 @@
-# Chuy Hand Symbols — v3
+# Chuy Hand Symbols
 
 [English](README.md) | **Tiếng Việt**
 
-Font nét viết tay với chữ hoa ký hiệu từ video, bộ ký hiệu thường a–z thu nhỏ từ chữ gốc và chữ tiếng Việt.
+Font ký hiệu viết tay cho bảng chữ Latin. Gõ A–Z hoặc a–z để hiển thị ký hiệu tương ứng.
 
-![Chữ thường và tiếng Việt](ChuyHandSymbols-Vietnamese-preview.png)
+## Bảng chữ Latin
+
+Chữ hoa được dựng lại từ video tham chiếu. Chữ thường là biến thể thu nhỏ, giữ hình dạng ký hiệu của chữ hoa.
+
+![Bảng chữ Latin A–Z và a–z](ChuyHandSymbols-Latin-preview.png)
 
 ## Tải và cài đặt
 
-[Tải font TTF](ChuyHandSymbols-Regular.ttf?raw=true), mở file rồi chọn **Install Font / Cài đặt**. Chọn **Chuy Hand Symbols** trong ứng dụng. Nếu đã cài v1, thay thế bằng bản v3.
+[Tải font TTF](ChuyHandSymbols-Regular.ttf?raw=true), mở file và chọn **Install Font / Cài đặt**. Chọn **Chuy Hand Symbols** trong ứng dụng. Nếu đã cài bản cũ, thay thế bằng v3.
 
-## Hỗ trợ
+Hỗ trợ A–Z, a–z và khoảng trắng. Chưa có số và dấu câu.
 
-- A–Z: ký hiệu dựng lại từ video tham chiếu.
-- a–z: biến thể ký hiệu thu nhỏ, giữ cấu trúc nét của chữ hoa.
-- Ă Â Ê Ô Ơ Ư Đ và ă â ê ô ơ ư đ.
-- Đầy đủ dấu sắc, huyền, hỏi, ngã, nặng trên các nguyên âm tiếng Việt, cho cả chữ hoa và chữ thường.
-- Ký tự tiếng Việt dựng sẵn Unicode và phép ghép dấu qua OpenType ccmp.
-- Khoảng trắng. Chưa có số và dấu câu.
+## Demo tiếng Việt
 
-Chữ thường là biến thể thu nhỏ của ký hiệu gốc; dấu tiếng Việt được tự thiết kế vì video không có mẫu. Nét chữ hoa được dựng lại, không trích xuất nguyên bản từng pixel.
+Phần mở rộng thử nghiệm bổ sung ă, â, ê, ô, ơ, ư, đ và năm dấu sắc, huyền, hỏi, ngã, nặng cho chữ hoa và chữ thường. Đây là phần tự thiết kế vì video không có mẫu tiếng Việt.
 
-## Bảng chữ hoa đã sửa
+Bảng dưới dùng để xem thử hệ ký hiệu khi thêm dấu tiếng Việt.
 
-![Chữ hoa đã đối chiếu video](ChuyHandSymbols-preview.png)
+![Demo dấu tiếng Việt](ChuyHandSymbols-Vietnamese-preview.png)
 
 ## Đối chiếu bản gốc
 
-Bản v3 sửa nét sai hoặc thiếu ở B, D, G, K, L, M, S, V, W, X. Chữ thường Latin ở v2 được thay bằng biến thể thu nhỏ của hệ ký hiệu gốc. Đây vẫn là bản dựng lại; khoảng cách và tỷ lệ có thể khác video.
+Bản v3 sửa nét sai hoặc thiếu ở B, D, G, K, L, M, S, V, W, X. Chữ thường giữ cấu trúc ký hiệu gốc. Đây vẫn là bản dựng lại; tỷ lệ và khoảng cách có thể khác video.
 
 ![Đối chiếu video và font đã sửa](ChuyHandSymbols-source-comparison.png)
