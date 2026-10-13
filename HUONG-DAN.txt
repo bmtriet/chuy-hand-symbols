@@ -1,0 +1,8 @@
+CHUY HAND SYMBOLS — bản dựng lại từ video
+
+Cài đặt: mở ChuyHandSymbols-Regular.ttf, chọn Install Font / Cài đặt.
+Trong ứng dụng, chọn font Chuy Hand Symbols. Gõ A–Z hoặc a–z.
+
+Bản này dựng lại nét từ video, không phải trích xuất nguyên bản từng pixel.
+Chữ hoa và chữ thường dùng chung ký hiệu. Hỗ trợ khoảng trắng.
+Chưa có số, dấu câu hay dấu tiếng Việt vì video không cung cấp mẫu.
